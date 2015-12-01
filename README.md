@@ -3,7 +3,7 @@
 Node module for sending a set of specified messages.
 
 ```javascript
-var sender = require('./index.js');
+var sender = require('mqtt-sender');
 
 var messages = [
   {
