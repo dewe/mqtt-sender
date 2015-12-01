@@ -1,0 +1,11 @@
+[{
+  "topic": "test/topic",
+  "payload": {
+    "hello": "world"
+  }
+}, {
+  "topic": "another/topic",
+  "payload": {
+    "goodbye": "space"
+  }
+}]

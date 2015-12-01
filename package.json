@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-sender",
+  "version": "0.0.1",
+  "description": "send mqtt predefined mqtt messages",
+  "main": "app.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^1.6.0"
+  }
+}
