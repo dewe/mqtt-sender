@@ -1,3 +1,5 @@
+# mqtt-sender
+
 Node module for sending a set of specified messages.
 
 ```javascript

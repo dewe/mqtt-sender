@@ -1,15 +1,24 @@
 {
   "name": "mqtt-sender",
   "version": "0.0.1",
-  "description": "send mqtt predefined mqtt messages",
-  "main": "app.js",
-  "scripts": {
-    "test": "node_modules/.bin/mocha"
-  },
-  "author": "",
-  "license": "ISC",
+  "description": "Node module for sending a set of specified messages.",
+  "main": "index.js",
   "dependencies": {
     "debug": "^2.2.0",
     "mqtt": "^1.6.0"
   }
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiotlabs/mqtt-sender.git"
+  },
+  "author": "Johan Dewe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiotlabs/mqtt-sender/issues"
+  },
+  "homepage": "https://github.com/hiotlabs/mqtt-sender#readme",
 }
