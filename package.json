@@ -1,6 +1,6 @@
 {
   "name": "mqtt-sender",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node module for sending a set of specified messages.",
   "main": "index.js",
   "dependencies": {
