@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hiotlabs/mqtt-sender.git"
+    "url": "git+https://github.com/dewe/mqtt-sender.git"
   },
   "author": "Johan Dewe",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hiotlabs/mqtt-sender/issues"
   },
-  "homepage": "https://github.com/hiotlabs/mqtt-sender#readme"
+  "homepage": "https://github.com/dewe/mqtt-sender#readme"
 }
